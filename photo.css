@@ -1,0 +1,13 @@
+nav {
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    text-transform: uppercase;
+    padding: 1em 0;
+    margin-left: calc(10%/6);
+    font-family: Belanosima, sans-serif;
+}
+
+img {
+    width: 30%;
+    margin: calc(10%/6);
+}
